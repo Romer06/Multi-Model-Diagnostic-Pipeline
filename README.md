@@ -1,5 +1,3 @@
-# Multi-Model-Diagnostic-Pipeline
-
 # Multi-Model Diagnostic Pipeline for Heart Disease Prediction
 
 ## Overview
