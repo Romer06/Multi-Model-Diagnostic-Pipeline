@@ -64,12 +64,3 @@ This project successfully proves that different mathematical approaches to class
 
 ---
 
-### **How to use this:**
-
-1. Go to your GitHub repository.
-    
-2. Open your `README.md` file.
-    
-3. Paste the text above exactly as it is (including the `#` symbols).
-    
-4. Save/Commit the file.
